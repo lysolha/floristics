@@ -1,0 +1,12 @@
+.search__btn {
+  display: inline-block;
+  width: 2.5em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: 0.2s linear;
+}
+
+.search__btn:hover {
+  transform: scale(1.1);
+}

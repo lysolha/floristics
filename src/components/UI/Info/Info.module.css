@@ -1,0 +1,41 @@
+.info__block {
+  padding-bottom: 2em;
+  background: rgb(235 172 162 / 30%);
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+}
+
+.info__item {
+  margin: 4em 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info__content__text {
+  width: 55%;
+}
+
+.info__content__img {
+  width: 40%;
+  height: 55vh;
+  position: relative;
+  overflow: hidden;
+  border: 3px solid white;
+}
+
+.info__title {
+  padding-bottom: 1em;
+  font-style: oblique;
+  color: #404640;
+  border-bottom: 3px solid #404640;
+}
+
+.info__text {
+  color: #293844;
+}
+
+.info__img {
+  position: absolute;
+  width: 400px;
+}

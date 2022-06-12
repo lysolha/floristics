@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "value": {
+      "title": "Значення квітів",
+      "img": "static/images/offers/meaning.png"
+    }
+  },
+  {
+    "id": 2,
+    "value": {
+      "title": "Готові букети",
+      "img": "static/images/offers/ready-made.png"
+    }
+  },
+  {
+    "id": 3,
+    "value": {
+      "title": "Зібрати свій букет",
+      "img": "static/images/offers/private.jpeg"
+    }
+  }
+]
